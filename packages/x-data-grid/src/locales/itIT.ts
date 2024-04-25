@@ -39,9 +39,9 @@ const itITGrid: Partial<GridLocaleText> = {
   toolbarExportExcel: 'Scarica come Excel',
 
   // Columns management text
-  // columnsManagementSearchTitle: 'Search',
-  // columnsManagementNoColumns: 'No columns',
-  // columnsManagementShowHideAllText: 'Show/Hide All',
+  // columnsManagementSearchTitle: 'Ricerca',
+  // columnsManagementNoColumns: 'Nessuna colonna',
+  // columnsManagementShowHideAllText: 'Mostra/Nascondi tutto',
 
   // Filter panel text
   filterPanelAddFilter: 'Aggiungi un filtro',
